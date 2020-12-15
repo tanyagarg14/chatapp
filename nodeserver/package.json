@@ -1,0 +1,17 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is a node derver for a WeChat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanya",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^3.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
